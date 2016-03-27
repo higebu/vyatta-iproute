@@ -1,3 +1,9 @@
+iproute2 (4.4.0-1vyos2) unstable; urgency=medium
+
+  * Merge tag 'v4.4.0' into current
+
+ -- Yuya Kusakabe <yuya.kusakabe@gmail.com>  Sun, 27 Mar 2016 09:53:56 +0900
+
 iproute (20131122+vyos2+current1) unstable; urgency=medium
 
   * New branch
